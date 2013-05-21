@@ -1,2 +1,2 @@
-[This repository has moved; click here.](http://github.com/CenterForOpenScience/openscienceframework.org/)
+[This repository has moved; click here.](http://github.com/CenterForOpenScience/openscienceframework/)
 ===========================
