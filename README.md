@@ -1,4 +1,2 @@
-openscienceframework
-====================
-
-The actual OSF web application
+[This repository has moved; click here.](http://github.com/CenterForOpenScience/openscienceframework.org/)
+===========================
